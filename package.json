@@ -1,7 +1,7 @@
 {
   "name": "npm-licenses",
   "version": "1.0.2",
-  "description": "",
+  "description": "NPM License\r ===",
   "main": "bin/npm-licenses.js",
   "bin": {
     "npm-licenses": "bin/npm-licenses.js"
@@ -13,5 +13,14 @@
   "license": "MIT",
   "dependencies": {
     "commander": "^2.9.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonathanPicques/npm-licenses.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JonathanPicques/npm-licenses/issues"
+  },
+  "homepage": "https://github.com/JonathanPicques/npm-licenses#readme"
 }
