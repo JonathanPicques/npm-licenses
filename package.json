@@ -1,6 +1,6 @@
 {
   "name": "npm-licenses",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "NPM License\r ===",
   "main": "bin/npm-licenses.js",
   "bin": {
