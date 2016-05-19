@@ -1,0 +1,17 @@
+{
+  "name": "npm-licenses",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/npm-licenses.js",
+  "bin": {
+    "npm-licenses": "bin/npm-licenses.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Picques <jonathan.picques@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
